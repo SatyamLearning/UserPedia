@@ -25,7 +25,7 @@ const Create = () => {
       <h2>Fill the Data in Form</h2>
       <form className="w-50 p-3" onSubmit={handleSubmit}>
         <div className="mb-3">
-          <label className="form-label">Name</label>
+          <label className="form-label">Full Name</label>
           <input
             type="text"
             name="name"
